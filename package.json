@@ -1,6 +1,6 @@
 {
   "name": "kc-timer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Wait miliseconsd and exec iteratively.",
   "main": "index.js",
   "repository": {
