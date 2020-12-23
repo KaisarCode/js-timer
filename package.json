@@ -1,0 +1,23 @@
+{
+  "name": "kc-timer",
+  "version": "1.0.3",
+  "description": "[js] Wait miliseconsd and exec iteratively.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "interval"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-timer/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-timer",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
